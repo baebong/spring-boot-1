@@ -7,3 +7,4 @@
 - gradle
 - Thymeleaf
 - Spring Web
+- h2 db
